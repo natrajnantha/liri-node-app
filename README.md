@@ -36,8 +36,36 @@ LIRIBOT LIRI.js would perform the following commands. The results of these comma
 * spotify-this-song
     
     The syntax is "node liri.js spotify-this-song <song name here>". The program will call the node-spotify-api to retrieve song information from the SPOTIFY API. 
+    If song name is not given by user, then the program will default to "The Sign by Ace of Base". 
+    If a matching album is not returned by SPOTIFY, then the program will display "Album not found matching to the search string".
+    Below are the information that would be displayed fromt he spoitfy api.
+
+        * Artist(s)
+        * The song's name
+        * A preview link of the song from Spotify
+        * The album that the song is from
 
 * movie-this
 
+    The syntax is "node liri.js movie-this <movie name here>". The program will call the OMDB API with the supplied keys to get the movie information. 
+    If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' 
+    If no matching movie is retured by the API, then the program will display "IMDB Moive error Movie not found!". 
+    Below information are retured for matching movies
+
+        * Title of the movie.
+        * Year the movie came out.
+        * IMDB Rating of the movie.
+        * Rotten Tomatoes Rating of the movie.
+        * Country where the movie was produced.
+        * Language of the movie.
+        * Plot of the movie.
+        * Actors in the movie.
+
 * do-what-it-says
+
+    Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands. The user can give any valid liribot commands in the
+    random.txt file and the program will execute the command and provide the same results as the commands described above. 
+
+liribot demonstration video can be watched with this video link
+https://drive.google.com/file/d/1Wgvb0RY2enctfTMRHNr8oAMP2RSfbvXm/view
 
