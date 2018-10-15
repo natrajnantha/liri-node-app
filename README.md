@@ -28,9 +28,12 @@ LIRIBOT LIRI.js would perform the following commands. The results of these comma
     If no artist information is provided, then the program will default to "Shawn Mendes". 
     If no matching inforation is retured by the API, the program will display "No matching Concerts found in Bandsintown". 
     Below are the information that would be displayed from the bands in town API result
-        Name of the venue
-        Venue location
-        Date of the Event (use moment to format this as "MM/DD/YYYY")
+        
+        * Name of the venue
+        
+        * Venue location
+        
+        * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 * spotify-this-song
     
