@@ -1,0 +1,565 @@
+
+
+*******************************************************
+Log time : 10 Sun, 2018 06:30:11 pm
+User Command is liri.js concert-this undefined
+No band name provided by user. Default band being used : Shawn%20Mendes
+Bands in town info 
+Venue name : 97.1 AMP RADIO's 6th Annual WE CAN SURVIVE
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Saturday, October 20, 2018 6:30 PM
+Bands in town info 
+Venue name : SAP Center At San Jose
+Venue city : San Jose
+Venue Region : CA
+Event Date : Saturday, December 1, 2018 7:30 PM
+Bands in town info 
+Venue name : Allstate Arena
+Venue city : Rosemont
+Venue Region : IL
+Event Date : Saturday, December 8, 2018 7:30 PM
+Bands in town info 
+Venue name : Ziggo Dome
+Venue city : Nieuw-amsterdam
+Venue Region : 
+Event Date : Thursday, March 7, 2019 6:00 PM
+Bands in town info 
+Venue name : Ziggo Dome
+Venue city : Nieuw-amsterdam
+Venue Region : 
+Event Date : Friday, March 8, 2019 1:48 AM
+Bands in town info 
+Venue name : Antwerps Sportpaleis
+Venue city : Antwerp
+Venue Region : 
+Event Date : Sunday, March 10, 2019 6:00 PM
+Bands in town info 
+Venue name : Mercedes-Benz Arena
+Venue city : Berlin-friedrichshain
+Venue Region : 
+Event Date : Monday, March 11, 2019 6:00 PM
+Bands in town info 
+Venue name : Oslo Spektrum Arena
+Venue city : Oslo
+Venue Region : 
+Event Date : Wednesday, March 13, 2019 6:00 PM
+Bands in town info 
+Venue name : Ericsson Globe
+Venue city : Stockholm
+Venue Region : 
+Event Date : Friday, March 15, 2019 6:00 PM
+Bands in town info 
+Venue name : Royal Arena
+Venue city : Copenhagen
+Venue Region : 
+Event Date : Saturday, March 16, 2019 6:00 PM
+Bands in town info 
+Venue name : Lanxess Arena
+Venue city : Köln
+Venue Region : 
+Event Date : Monday, March 18, 2019 6:00 PM
+Bands in town info 
+Venue name : Accorhotels Arena
+Venue city : Paris
+Venue Region : 
+Event Date : Tuesday, March 19, 2019 6:00 PM
+Bands in town info 
+Venue name : Olympiahalle
+Venue city : Munich
+Venue Region : 
+Event Date : Thursday, March 21, 2019 6:00 PM
+Bands in town info 
+Venue name : Unipol Arena
+Venue city : Bologna
+Venue Region : 
+Event Date : Saturday, March 23, 2019 6:00 PM
+Bands in town info 
+Venue name : Pala Alpitour
+Venue city : Turin
+Venue Region : 
+Event Date : Sunday, March 24, 2019 6:00 PM
+Bands in town info 
+Venue name : Palau Sant Jordi
+Venue city : Barcelona
+Venue Region : 
+Event Date : Tuesday, March 26, 2019 6:00 PM
+Bands in town info 
+Venue name : Altice Arena
+Venue city : Lisbon
+Venue Region : 
+Event Date : Thursday, March 28, 2019 6:00 PM
+Bands in town info 
+Venue name : SUD DE FRANCE ARENA
+Venue city : Montpellier-de-medillan
+Venue Region : 
+Event Date : Saturday, March 30, 2019 6:00 PM
+Bands in town info 
+Venue name : Hallenstadion
+Venue city : Zürich
+Venue Region : 
+Event Date : Sunday, March 31, 2019 6:00 PM
+Bands in town info 
+Venue name : Wiener Stadthalle
+Venue city : Vienna
+Venue Region : 
+Event Date : Wednesday, April 3, 2019 6:00 PM
+Bands in town info 
+Venue name : Tauron Arena Krakow
+Venue city : Cracow
+Venue Region : 
+Event Date : Tuesday, April 2, 2019 6:00 PM
+Bands in town info 
+Venue name : Manchester Arena
+Venue city : Manchester
+Venue Region : 
+Event Date : Sunday, April 7, 2019 6:00 PM
+Bands in town info 
+Venue name : Barclaycard Arena
+Venue city : Birmingham
+Venue Region : 
+Event Date : Tuesday, April 9, 2019 6:00 PM
+Bands in town info 
+Venue name : First Direct Arena
+Venue city : Leeds
+Venue Region : 
+Event Date : Wednesday, April 10, 2019 6:00 PM
+Bands in town info 
+Venue name : 3Arena
+Venue city : Dublin
+Venue Region : 
+Event Date : Saturday, April 13, 2019 6:00 PM
+Bands in town info 
+Venue name : SSE Hydro
+Venue city : Glasgow
+Venue Region : 
+Event Date : Saturday, April 6, 2019 6:00 PM
+Bands in town info 
+Venue name : 3Arena
+Venue city : Dublin
+Venue Region : 
+Event Date : Sunday, April 14, 2019 6:00 PM
+Bands in town info 
+Venue name : The O2 Arena
+Venue city : London
+Venue Region : 
+Event Date : Tuesday, April 16, 2019 6:00 PM
+Bands in town info 
+Venue name : The O2 Arena
+Venue city : London
+Venue Region : 
+Event Date : Wednesday, April 17, 2019 6:00 PM
+Bands in town info 
+Venue name : The O2 Arena
+Venue city : London
+Venue Region : 
+Event Date : Friday, April 19, 2019 6:00 PM
+Bands in town info 
+Venue name : Moda Center
+Venue city : Portland
+Venue Region : OR
+Event Date : Wednesday, June 12, 2019 6:00 PM
+Bands in town info 
+Venue name : Bell MTS Place
+Venue city : Winnipeg
+Venue Region : 
+Event Date : Wednesday, June 19, 2019 6:00 PM
+Bands in town info 
+Venue name : Xcel Energy Center
+Venue city : St Paul
+Venue Region : MN
+Event Date : Friday, June 21, 2019 6:00 PM
+Bands in town info 
+Venue name : Wells Fargo Arena
+Venue city : Des Moines
+Venue Region : IA
+Event Date : Saturday, June 22, 2019 6:00 PM
+Bands in town info 
+Venue name : Allstate Arena
+Venue city : Chicago
+Venue Region : IL
+Event Date : Thursday, June 27, 2019 6:00 PM
+Bands in town info 
+Venue name : Rogers Place
+Venue city : Edmonton
+Venue Region : 
+Event Date : Sunday, June 16, 2019 6:00 PM
+Bands in town info 
+Venue name : Rogers Arena
+Venue city : Vancouver
+Venue Region : 
+Event Date : Friday, June 14, 2019 6:00 PM
+Bands in town info 
+Venue name : Enterprise Center
+Venue city : Saint Louis
+Venue Region : MO
+Event Date : Sunday, June 30, 2019 6:00 PM
+Bands in town info 
+Venue name : Pepsi Center
+Venue city : Denver
+Venue Region : CO
+Event Date : Tuesday, July 2, 2019 6:00 PM
+Bands in town info 
+Venue name : Staples Center
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Friday, July 5, 2019 6:00 PM
+Bands in town info 
+Venue name : Valley View Casino Center
+Venue city : San Diego
+Venue Region : CA
+Event Date : Monday, July 8, 2019 6:00 PM
+Bands in town info 
+Venue name : Gila River Arena
+Venue city : Glendale
+Venue Region : AZ
+Event Date : Tuesday, July 9, 2019 6:00 PM
+Bands in town info 
+Venue name : Golden 1 Center
+Venue city : Sacramento
+Venue Region : CA
+Event Date : Thursday, July 11, 2019 6:00 PM
+Bands in town info 
+Venue name : Oracle Arena
+Venue city : Oakland
+Venue Region : CA
+Event Date : Saturday, July 13, 2019 6:00 PM
+Bands in town info 
+Venue name : Vivint Smart Home Arena
+Venue city : Salt Lake City
+Venue Region : UT
+Event Date : Tuesday, July 16, 2019 6:00 PM
+Bands in town info 
+Venue name : Sprint Center
+Venue city : Kansas City
+Venue Region : MO
+Event Date : Friday, July 19, 2019 6:00 PM
+Bands in town info 
+Venue name : BOK Center
+Venue city : Tulsa
+Venue Region : OK
+Event Date : Saturday, July 20, 2019 6:00 PM
+Bands in town info 
+Venue name : American Airlines Center
+Venue city : Dallas
+Venue Region : TX
+Event Date : Monday, July 22, 2019 6:00 PM
+Bands in town info 
+Venue name : AT&T Center
+Venue city : San Antonio
+Venue Region : TX
+Event Date : Tuesday, July 23, 2019 6:00 PM
+Bands in town info 
+Venue name : Toyota Center
+Venue city : Houston
+Venue Region : TX
+Event Date : Thursday, July 25, 2019 6:00 PM
+Bands in town info 
+Venue name : Amalie Arena
+Venue city : Tampa
+Venue Region : FL
+Event Date : Saturday, July 27, 2019 6:00 PM
+Bands in town info 
+Venue name : AmericanAirlines Arena
+Venue city : Miami
+Venue Region : FL
+Event Date : Sunday, July 28, 2019 6:00 PM
+Bands in town info 
+Venue name : Amway Center
+Venue city : Orlando
+Venue Region : FL
+Event Date : Tuesday, July 30, 2019 6:00 PM
+Bands in town info 
+Venue name : Philips Arena
+Venue city : Atlanta
+Venue Region : GA
+Event Date : Wednesday, July 31, 2019 6:00 PM
+Bands in town info 
+Venue name : Bridgestone Arena
+Venue city : Nashville
+Venue Region : TN
+Event Date : Friday, August 2, 2019 6:00 PM
+Bands in town info 
+Venue name : Little Caesars Arena
+Venue city : Detroit
+Venue Region : MI
+Event Date : Monday, August 5, 2019 6:00 PM
+Bands in town info 
+Venue name : PPG Paints Arena
+Venue city : Pittsburgh
+Venue Region : PA
+Event Date : Tuesday, August 6, 2019 6:00 PM
+Bands in town info 
+Venue name : Prudential Center
+Venue city : Newark
+Venue Region : NJ
+Event Date : Saturday, August 10, 2019 6:00 PM
+Bands in town info 
+Venue name : Capital One Arena
+Venue city : Washington
+Venue Region : DC
+Event Date : Tuesday, August 13, 2019 6:00 PM
+Bands in town info 
+Venue name : TD Garden
+Venue city : Boston
+Venue Region : MA
+Event Date : Thursday, August 15, 2019 6:00 PM
+Bands in town info 
+Venue name : Bell Centre
+Venue city : Montreal
+Venue Region : 
+Event Date : Wednesday, August 21, 2019 6:00 PM
+Bands in town info 
+Venue name : Barclays Center
+Venue city : Brooklyn
+Venue Region : NY
+Event Date : Saturday, August 24, 2019 6:00 PM
+Bands in town info 
+Venue name : Adelaide Entertainment Centre
+Venue city : Adelaide
+Venue Region : 
+Event Date : Saturday, October 26, 2019 7:00 PM
+Bands in town info 
+Venue name : Perth Arena 
+Venue city : Perth
+Venue Region : 
+Event Date : Wednesday, October 23, 2019 5:00 PM
+Bands in town info 
+Venue name : Rod Laver Arena
+Venue city : Melbourne
+Venue Region : 
+Event Date : Tuesday, October 29, 2019 7:00 PM
+Bands in town info 
+Venue name : Rod Laver Arena
+Venue city : Melbourne
+Venue Region : 
+Event Date : Wednesday, October 30, 2019 6:00 PM
+Bands in town info 
+Venue name : Rod Laver Arena
+Venue city : Melbourne
+Venue Region : 
+Event Date : Thursday, October 31, 2019 7:00 PM
+Bands in town info 
+Venue name : Qudos Bank Arena
+Venue city : Sydney
+Venue Region : 
+Event Date : Saturday, November 2, 2019 7:00 PM
+Bands in town info 
+Venue name : Qudos Bank Arena
+Venue city : Sydney
+Venue Region : 
+Event Date : Sunday, November 3, 2019 6:00 PM
+Bands in town info 
+Venue name : Entertainment Centre
+Venue city : Brisbane
+Venue Region : 
+Event Date : Wednesday, November 6, 2019 2:06 PM
+Bands in town info 
+Venue name : Spark Arena
+Venue city : Auckland
+Venue Region : 
+Event Date : Saturday, November 9, 2019 7:00 PM
+
+*******************************************************
+Log time : 10 Sun, 2018 06:31:18 pm
+User Command is liri.js concert-this the eagles 
+User band search string being used for search : the%20eagles
+No matching Concerts found in Bandsintown. Search string used is : the%20eagles
+
+*******************************************************
+Log time : 10 Sun, 2018 06:31:49 pm
+User Command is liri.js concert-this drake 
+User band search string being used for search : drake
+Bands in town info 
+Venue name : Staples Center
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Sunday, October 14, 2018 7:00 PM
+Bands in town info 
+Venue name : The Forum
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Tuesday, October 16, 2018 7:00 PM
+Bands in town info 
+Venue name : The Forum
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Wednesday, October 17, 2018 7:00 PM
+Bands in town info 
+Venue name : The Forum
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Friday, October 19, 2018 7:00 PM
+Bands in town info 
+Venue name : The Forum
+Venue city : Los Angeles
+Venue Region : CA
+Event Date : Saturday, October 20, 2018 7:00 PM
+Bands in town info 
+Venue name : Oracle Arena
+Venue city : Oakland
+Venue Region : CA
+Event Date : Friday, October 26, 2018 7:00 PM
+Bands in town info 
+Venue name : USS Hornet Aircraft Carrier
+Venue city : Alameda
+Venue Region : CA
+Event Date : Friday, October 26, 2018 9:30 PM
+Bands in town info 
+Venue name : Oracle Arena
+Venue city : Oakland
+Venue Region : CA
+Event Date : Saturday, October 27, 2018 7:00 PM
+Bands in town info 
+Venue name : Oracle Arena
+Venue city : Oakland
+Venue Region : CA
+Event Date : Monday, October 29, 2018 7:00 PM
+Bands in town info 
+Venue name : Tacoma Dome
+Venue city : Tacoma
+Venue Region : WA
+Event Date : Thursday, November 1, 2018 7:00 PM
+Bands in town info 
+Venue name : Rogers Arena
+Venue city : Vancouver
+Venue Region : 
+Event Date : Saturday, November 3, 2018 7:00 PM
+Bands in town info 
+Venue name : Rogers Arena
+Venue city : Vancouver
+Venue Region : 
+Event Date : Sunday, November 4, 2018 7:00 PM
+Bands in town info 
+Venue name : Rogers Place
+Venue city : Edmonton
+Venue Region : 
+Event Date : Tuesday, November 6, 2018 7:30 PM
+Bands in town info 
+Venue name : Rogers Place
+Venue city : Edmonton
+Venue Region : 
+Event Date : Wednesday, November 7, 2018 7:00 PM
+Bands in town info 
+Venue name : AmericanAirlines Arena
+Venue city : Miami
+Venue Region : FL
+Event Date : Tuesday, November 13, 2018 8:00 PM
+Bands in town info 
+Venue name : AmericanAirlines Arena
+Venue city : Miami
+Venue Region : FL
+Event Date : Wednesday, November 14, 2018 7:00 PM
+Bands in town info 
+Venue name : Chateau Le Jardin Event Venue
+Venue city : Woodbridge
+Venue Region : 
+Event Date : Thursday, November 29, 2018 7:00 PM
+Bands in town info 
+Venue name : Accorhotels Arena
+Venue city : Paris
+Venue Region : 
+Event Date : Friday, March 8, 2019 7:00 PM
+Bands in town info 
+Venue name : State Farm Arena
+Venue city : Atlanta
+Venue Region : GA
+Event Date : Friday, November 16, 2018 7:30 PM
+Bands in town info 
+Venue name : State Farm Arena
+Venue city : Atlanta
+Venue Region : GA
+Event Date : Saturday, November 17, 2018 7:00 PM
+Bands in town info 
+Venue name : Accorhotels Arena
+Venue city : Paris
+Venue Region : 
+Event Date : Saturday, March 9, 2019 7:00 PM
+
+*******************************************************
+Log time : 10 Sun, 2018 06:32:51 pm
+User Command is liri.js spotify-this-song undefined
+No title provided by user. Default title being used : The Sign by Ace of Base
+Spofity this song info
+Album Artist : Karaoke Box
+The song's name : I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+The album that song is from : Karaoke Box: Reggae Greatest Hits
+The preview link : https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=d344a3128a3e4349895d1c34399e7dd5
+
+*******************************************************
+Log time : 10 Sun, 2018 06:33:30 pm
+User Command is liri.js spotify-this-song the eagles 
+User title being used for search : the%20eagles%20
+Spofity this song info
+Album Artist : Eagles
+The song's name : Hotel California - Remastered
+The album that song is from : Hotel California (Remastered)
+The preview link : https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=d344a3128a3e4349895d1c34399e7dd5
+
+*******************************************************
+Log time : 10 Sun, 2018 06:34:07 pm
+User Command is liri.js spotify-this-song somewieredsongthatisincorrect 
+User title being used for search : somewieredsongthatisincorrect%20Spotify Album not found matching to the search string : somewieredsongthatisincorrect%20
+
+*******************************************************
+Log time : 10 Sun, 2018 06:34:44 pm
+User Command is liri.js movie-this undefined
+No movie name provided by user. Default movie being used : Mr.+Nobody
+IMDB Moive information 
+Title of the movie: Mr. Nobody
+Year the movie came out: 2009
+IMDB Rating of the movie: 7.9
+Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+*******************************************************
+Log time : 10 Sun, 2018 06:35:17 pm
+User Command is liri.js movie-this gladiator 
+User Movie string being used for search : gladiator+
+IMDB Moive information 
+Title of the movie: Gladiator
+Year the movie came out: 2000
+IMDB Rating of the movie: 8.5
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Plot of the movie: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+*******************************************************
+Log time : 10 Sun, 2018 06:35:47 pm
+User Command is liri.js movie-this someincorrectmoviename 
+User Movie string being used for search : someincorrectmoviename+
+IMDB Moive error Movie not found!
+
+*******************************************************
+Log time : 10 Sun, 2018 06:36:41 pm
+User Command in random.txt file is movie-this Gladiator
+User Movie string being used for search : Gladiator
+IMDB Moive information 
+Title of the movie: Gladiator
+Year the movie came out: 2000
+IMDB Rating of the movie: 8.5
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Plot of the movie: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+*******************************************************
+Log time : 10 Sun, 2018 06:37:25 pm
+User Command in random.txt file is spotify-this-song the eagles
+User title being used for search : the%20eagles
+Spofity this song info
+Album Artist : Eagles
+The song's name : Hotel California - Remastered
+The album that song is from : Hotel California (Remastered)
+The preview link : https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=d344a3128a3e4349895d1c34399e7dd5
+
+*******************************************************
+Log time : 10 Sun, 2018 06:38:16 pm
+User Command is liri.js some-incorrect-command undefined
+
+*****Critical Error****
+Command some-incorrect-command not recognized by LIRIBOT. Please fix and retry.
+Recognized commands are movie-this, concert-this, spotify-this-song and do-what-it-says
