@@ -30,9 +30,7 @@ LIRIBOT LIRI.js would perform the following commands. The results of these comma
     Below are the information that would be displayed from the bands in town API result
         
         * Name of the venue
-        
         * Venue location
-        
         * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 * spotify-this-song
